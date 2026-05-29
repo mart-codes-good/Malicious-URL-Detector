@@ -3,6 +3,8 @@ This notebook was written to apply some machine learning concepts I have learned
 
 Using a dataset containing a list of URLs sorted into two categories: benign or malicious, the model is trained on that data after some cleaning and preprocessing, before being evaluated using a train-test split and a Random Forest classifier.
 
+Trained a Random Forest classifier on 6,000 URLs to detect malicious links with a recall of 0.88 for malicious URLs.
+
 The Kaggle notebook link is here: [Malicious URL Detector](https://www.kaggle.com/code/martintej/malicious-url-detector)
 
 This repository includes the code from the notebook and a standalone Python version.
